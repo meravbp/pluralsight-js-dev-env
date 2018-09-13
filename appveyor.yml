@@ -10,7 +10,7 @@
      -npm install
 
   
-  # Post-install test scripts
+  # Post-install test scripts.
   test_script:
 
      -node --version
