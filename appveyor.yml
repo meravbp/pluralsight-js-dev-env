@@ -7,7 +7,7 @@ enviroment:
 
     -ps: Install-Product node $env:nodejs_version
 
-    -npm onstall
+    -npm install
 
     test_script:
 
